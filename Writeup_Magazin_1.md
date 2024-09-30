@@ -17,11 +17,11 @@ Overview source code, detect the cookie variable fall into a sink(**include**) t
 
 Let's try to make a hypothesis, so what if we upload a txt file but inside is a webshell, and change the path to **include** to execute the webshell?
 
-Use burptsuit to post a file.txt which has content:
+Use burptsuite to post a file.txt which has content:
 
 ![image](https://github.com/user-attachments/assets/ef5306b5-c543-462a-971a-78f0a5578977)
 
-Access to link file, upload file successfully
+Access to link file, upload file successfully.
 Next, change cookie and get parameter 'cmd' in payload
 
 ![image](https://github.com/user-attachments/assets/6475ebf6-af57-4ace-b296-810d051d97c6)
