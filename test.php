@@ -1,1 +1,2 @@
-GIF89a;<?php phpinfo(); ?>
+ÿØÿà
+<?php phpinfo(); ?>
